@@ -1,0 +1,38 @@
+zooming using scaling
+a, A
+
+roll 3, 4
+
+pitch 2, 1
+
+yaw y, Y
+
+frustrum zoom f, F
+
+eye, lookat zoom - =
+lookat y move . /
+lookat x move x X
+
+
+full obj rotate 
+y axis e,E
+z axis w,W
+x axis r,R
+
+panning
+left-right []
+up-down ; :
+
+bird perp c C
+
+player perp p, P
+
+goalkey move m, M
+
+kickball o
+
+target move i,j,k,l
+
+player move
+p1 b B
+p2 v V
